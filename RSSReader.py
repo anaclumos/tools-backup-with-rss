@@ -11,3 +11,6 @@ class RSSReader:
 
     def parse(self):
         return self.feed.entries
+    
+    def getBlogDomain(self):
+        return self.origin[:self.origin.rfind("/")]
