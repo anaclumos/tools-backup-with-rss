@@ -9,7 +9,8 @@ published: Tue, 14 Apr 2020 15:45:20 GMT
 ---
 
 # OpenAI Microscope
-###### <!--kg-card-begin: markdown--><div class="js-custom-media">
+###### Summary
+<!--kg-card-begin: markdown--><div class="js-custom-media">
 <video autoplay="" class="w-100 mb-0" loop="" muted="" playsinline="" poster="https://cdn.openai.com/microscope/microscope-video-poster.jpg" src="https://cdn.openai.com/microscope/microscope-header-web-medium-bitrate.mp4">
 </video>
 </div>

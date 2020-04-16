@@ -9,7 +9,8 @@ published: Thu, 30 Jan 2020 16:57:01 GMT
 ---
 
 # OpenAI → PyTorch
-###### <!--kg-card-begin: markdown--><p>We are standardizing OpenAI’s deep learning framework on <a href="https://pytorch.org/">PyTorch</a>. In the past, we implemented projects in many frameworks depending on their relative strengths. We’ve now chosen to standardize to make it easier for our team to create and share optimized implementations of our models.</p>
+###### Summary
+<!--kg-card-begin: markdown--><p>We are standardizing OpenAI’s deep learning framework on <a href="https://pytorch.org/">PyTorch</a>. In the past, we implemented projects in many frameworks depending on their relative strengths. We’ve now chosen to standardize to make it easier for our team to create and share optimized implementations of our models.</p>
 <p><img alt="openai-pytorch" src="images/openai-pytorch.png"/></p>
 <p>As part of this</p>
 <!--kg-card-begin: markdown--><img alt="OpenAI → PyTorch" src="images/openai-pytorch-vertical.png"/><p>We are standardizing OpenAI’s deep learning framework on <a href="https://pytorch.org/">PyTorch</a>. In the past, we implemented projects in many frameworks depending on their relative strengths. We’ve now chosen to standardize to make it easier for our team to create and share optimized implementations of our models.</p>

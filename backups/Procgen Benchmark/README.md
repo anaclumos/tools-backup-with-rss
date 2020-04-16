@@ -9,7 +9,8 @@ published: Tue, 03 Dec 2019 17:00:16 GMT
 ---
 
 # Procgen Benchmark
-###### We’re releasing Procgen Benchmark, 16 simple-to-use procedurally-generated environments which provide a direct measure of how quickly a reinforcement learning agent learns generalizable skills.
+###### Summary
+We’re releasing Procgen Benchmark, 16 simple-to-use procedurally-generated environments which provide a direct measure of how quickly a reinforcement learning agent learns generalizable skills.
 <!--kg-card-begin: markdown--><div class="medium-copy color-fg-80 mt-n0.5">
 <img alt="Procgen Benchmark" src="images/og-image.jpg"/><p>We’re releasing Procgen Benchmark, 16 simple-to-use <a href="https://en.wikipedia.org/wiki/Procedural_generation">procedurally-generated</a> environments which provide a direct measure of how quickly a reinforcement learning agent learns generalizable skills.</p>
 </div>

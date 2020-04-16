@@ -9,7 +9,8 @@ published: Mon, 22 Jul 2019 12:56:36 GMT
 ---
 
 # Microsoft Invests In and Partners with OpenAI to Support Us Building Beneficial AGI
-###### <!--kg-card-begin: markdown--><div class="js-custom-media">
+###### Summary
+<!--kg-card-begin: markdown--><div class="js-custom-media">
 <img class="d-none d-sm-block w-100" src="images/msft_7-19d.jpg"/>
 <img class="d-block d-sm-none w-100" src="images/openai-msft-twitter_7-21b.jpg"/>
 </div>
