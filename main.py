@@ -4,7 +4,7 @@ from MDCreator import MDCreator as MC
 
 # ------------
 DIRNAME = "backups"
-RSSNAME = "https://blog.chosunghyun.com/rss"
+RSSNAME = "https://openai.com/blog/rss/"
 # ------------
 
 obj = RR(RSSNAME)
