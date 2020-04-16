@@ -8,11 +8,16 @@ authors: [{'name': 'Joshua Achiam'}]
 published: Thu, 21 Nov 2019 16:55:00 GMT
 ---
 
+
 # Safety Gym
+
 ## Summary
+
 We're releasing Safety Gym, a suite of environments and tools for measuring progress towards reinforcement learning agents which respect safety constraints while training.
+
 ## Content
-We're releasing Safety Gym, a suite of environments and tools for measuring progress towards reinforcement learning agents which respect safety constraints while training.
+
+
 <!--kg-card-begin: markdown--><div class="js-excerpt">
 <img alt="Safety Gym" src="images/safety-gym-cover.png"/><p>We're releasing Safety Gym, a suite of environments and tools for measuring progress towards reinforcement learning agents that respect safety constraints while training. We also provide a standardized method of comparing algorithms and how well they avoid costly mistakes while learning. If deep reinforcement learning is applied to the real world, whether in robotics or internet-based tasks, it will be important to have algorithms that are safe even while learning—like a self-driving car that can learn to avoid accidents without actually having to experience them.</p>
 </div>

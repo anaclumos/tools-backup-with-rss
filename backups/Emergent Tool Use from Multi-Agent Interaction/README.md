@@ -8,11 +8,16 @@ authors: [{'name': 'Bowen Baker'}]
 published: Tue, 17 Sep 2019 15:54:57 GMT
 ---
 
+
 # Emergent Tool Use from Multi-Agent Interaction
+
 ## Summary
+
 We've observed agents discovering progressively more complex tool use while playing a simple game of hide-and-seek.
+
 ## Content
-We've observed agents discovering progressively more complex tool use while playing a simple game of hide-and-seek.
+
+
 <!--kg-card-begin: markdown--><div class="post-excerpt medium-copy mt-n0.5 mb-1 color-fg-80">
 We've observed agents discovering progressively more complex tool use while playing a simple game of hide-and-seek. Through training in our new simulated hide-and-seek environment, agents build a series of six distinct strategies and counterstrategies, some of which we did not know our environment supported. The self-supervised emergent complexity in this simple environment further suggests that multi-agent co-adaptation may one day produce extremely complex and intelligent behavior.
 </div>

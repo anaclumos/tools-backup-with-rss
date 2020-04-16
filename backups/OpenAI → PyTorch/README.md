@@ -8,15 +8,18 @@ authors: [{'name': 'OpenAI'}]
 published: Thu, 30 Jan 2020 16:57:01 GMT
 ---
 
+
 # OpenAI → PyTorch
+
 ## Summary
+
 <!--kg-card-begin: markdown--><p>We are standardizing OpenAI’s deep learning framework on <a href="https://pytorch.org/">PyTorch</a>. In the past, we implemented projects in many frameworks depending on their relative strengths. We’ve now chosen to standardize to make it easier for our team to create and share optimized implementations of our models.</p>
 <p><img alt="openai-pytorch" src="images/openai-pytorch.png"/></p>
 <p>As part of this</p>
+
 ## Content
-<!--kg-card-begin: markdown--><p>We are standardizing OpenAI’s deep learning framework on <a href="https://pytorch.org/">PyTorch</a>. In the past, we implemented projects in many frameworks depending on their relative strengths. We’ve now chosen to standardize to make it easier for our team to create and share optimized implementations of our models.</p>
-<p><img alt="openai-pytorch" src="images/openai-pytorch.png"/></p>
-<p>As part of this</p>
+
+
 <!--kg-card-begin: markdown--><img alt="OpenAI → PyTorch" src="images/openai-pytorch-vertical.png"/><p>We are standardizing OpenAI’s deep learning framework on <a href="https://pytorch.org/">PyTorch</a>. In the past, we implemented projects in many frameworks depending on their relative strengths. We’ve now chosen to standardize to make it easier for our team to create and share optimized implementations of our models.</p>
 <p><img alt="OpenAI → PyTorch" src="images/openai-pytorch.png"/></p>
 <p>As part of this move, we’ve just released a <a href="https://github.com/openai/spinningup">PyTorch-enabled version</a> of <a href="https://openai.com/blog/spinning-up-in-deep-rl/">Spinning Up in Deep RL</a>, an open-source educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning. We are also in the process of writing PyTorch bindings for our highly-optimized <a href="https://openai.com/blog/block-sparse-gpu-kernels/">blocksparse kernels</a>, and will open-source those bindings in upcoming months.</p>

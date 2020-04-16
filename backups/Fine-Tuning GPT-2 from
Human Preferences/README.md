@@ -9,14 +9,18 @@ authors: [{'name': 'Daniel Ziegler'}]
 published: Thu, 19 Sep 2019 15:51:34 GMT
 ---
 
+
 # Fine-Tuning GPT-2 from
 Human Preferences
+
 ## Summary
+
 <!--kg-card-begin: markdown--><div class="medium-copy color-fg-80 mt-n0.5">
 <p>We’ve fine-tuned the 774M parameter GPT-2 language model using human feedback for various tasks, successfully matching the preferences of the external human labelers, though those preferences did not always match our own. Specifically, for summarization tasks the labelers preferred sentences copied wholesale from the input (we’d only asked</p></div>
+
 ## Content
-<!--kg-card-begin: markdown--><div class="medium-copy color-fg-80 mt-n0.5">
-<p>We’ve fine-tuned the 774M parameter GPT-2 language model using human feedback for various tasks, successfully matching the preferences of the external human labelers, though those preferences did not always match our own. Specifically, for summarization tasks the labelers preferred sentences copied wholesale from the input (we’d only asked</p></div>
+
+
 <!--kg-card-begin: markdown--><div class="medium-copy color-fg-80 mt-n0.5">
 <img alt="Fine-Tuning GPT-2 from
 Human Preferences" src="images/fine-tuning-gpt-2-twitter.png"/><p>We’ve fine-tuned the 774M parameter GPT-2 language model using human feedback for various tasks, successfully matching the preferences of the external human labelers, though those preferences did not always match our own. Specifically, for summarization tasks the labelers preferred sentences copied wholesale from the input (we’d only asked them to ensure accuracy), so our models learned to copy. Summarization required 60k human labels; simpler tasks which continue text in various styles required only 5k. Our motivation is to move safety techniques closer to the general task of “machines talking to humans,” which we believe is key to extracting information about human values.</p>

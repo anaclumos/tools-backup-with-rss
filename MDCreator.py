@@ -77,9 +77,9 @@ published: """
 ---
 """
         )
-        self.renderedData += "\n# " + self.rawData.title
-        self.renderedData += "\n## Summary\n" + self.rawData.summary
-        self.renderedData += "\n## Content\n" + self.rawData.summary
+        self.renderedData += "\n\n# " + self.rawData.title
+        self.renderedData += "\n\n## Summary\n\n" + self.rawData.summary
+        self.renderedData += "\n\n## Content\n\n"
         for el in self.getValueListOfDictList(self.rawData.content, "value"):
             self.renderedData += "\n" + str(el)
         soup = bs(self.renderedData, features="html.parser")

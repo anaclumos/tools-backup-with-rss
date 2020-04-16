@@ -8,13 +8,17 @@ authors: [{'name': 'Jack Clark'}]
 published: Tue, 20 Aug 2019 16:00:59 GMT
 ---
 
+
 # GPT-2: 6-Month Follow-Up
+
 ## Summary
+
 <!--kg-card-begin: markdown--><div class="js-excerpt">
 <p>We’re releasing the 774 million parameter GPT-2 language model after the release of our small <a href="https://openai.com/blog/better-language-models/">124M model</a> in February, staged release of our medium <a href="https://openai.com/blog/better-language-models/#update">355M model</a> in May, and subsequent research with partners and the AI community into the model’s potential for misuse and societal benefit. We’re</p></div>
+
 ## Content
-<!--kg-card-begin: markdown--><div class="js-excerpt">
-<p>We’re releasing the 774 million parameter GPT-2 language model after the release of our small <a href="https://openai.com/blog/better-language-models/">124M model</a> in February, staged release of our medium <a href="https://openai.com/blog/better-language-models/#update">355M model</a> in May, and subsequent research with partners and the AI community into the model’s potential for misuse and societal benefit. We’re</p></div>
+
+
 <!--kg-card-begin: markdown--><div class="js-excerpt">
 <img alt="GPT-2: 6-Month Follow-Up" src="images/gpt-2_update_8-14a-40.jpg"/><p>We’re releasing the 774 million parameter GPT-2 language model after the release of our small <a href="https://openai.com/blog/better-language-models/">124M model</a> in February, staged release of our medium <a href="https://openai.com/blog/better-language-models/#update">355M model</a> in May, and subsequent research with partners and the AI community into the model’s potential for misuse and societal benefit. We’re also releasing an open-source legal agreement to make it easier for organizations to initiate model-sharing partnerships with each other, and are publishing a technical report about our experience in coordinating with the wider AI research community on publication norms.</p>
 </div>

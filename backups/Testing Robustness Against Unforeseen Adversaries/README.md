@@ -8,13 +8,17 @@ authors: [{'name': 'Daniel Kang'}]
 published: Thu, 22 Aug 2019 15:46:53 GMT
 ---
 
+
 # Testing Robustness Against Unforeseen Adversaries
+
 ## Summary
+
 <!--kg-card-begin: markdown--><div class="js-excerpt">
 <p>We've developed a method to assess whether a neural network classifier can reliably defend against adversarial attacks not seen during training. Our method yields a new metric, UAR (Unforeseen Attack Robustness), which evaluates the robustness of a single model against an unanticipated attack, and highlights the need to measure performance</p></div>
+
 ## Content
-<!--kg-card-begin: markdown--><div class="js-excerpt">
-<p>We've developed a method to assess whether a neural network classifier can reliably defend against adversarial attacks not seen during training. Our method yields a new metric, UAR (Unforeseen Attack Robustness), which evaluates the robustness of a single model against an unanticipated attack, and highlights the need to measure performance</p></div>
+
+
 <!--kg-card-begin: markdown--><div class="js-excerpt">
 <img alt="Testing Robustness Against Unforeseen Adversaries" src="images/espresso.gif"/><p>We've developed a method to assess whether a neural network classifier can reliably defend against adversarial attacks not seen during training. Our method yields a new metric, UAR (Unforeseen Attack Robustness), which evaluates the robustness of a single model against an unanticipated attack, and highlights the need to measure performance across a more diverse range of unforeseen attacks.</p>
 </div>

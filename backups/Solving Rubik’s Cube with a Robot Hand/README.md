@@ -8,11 +8,16 @@ authors: [{'name': 'OpenAI'}]
 published: Tue, 15 Oct 2019 15:51:18 GMT
 ---
 
+
 # Solving Rubik’s Cube with a Robot Hand
+
 ## Summary
+
 We've trained a pair of neural networks to solve the Rubik’s Cube with a human-like robot hand.
+
 ## Content
-We've trained a pair of neural networks to solve the Rubik’s Cube with a human-like robot hand.
+
+
 <!--kg-card-begin: markdown--><div class="post-excerpt medium-copy mb-1 color-fg-80">
 <img alt="Solving Rubik’s Cube with a Robot Hand" src="images/twitter-og.jpg"/><p>We've trained a pair of neural networks to solve the Rubik’s Cube with a human-like robot hand. The neural networks are trained entirely in simulation, using the same reinforcement learning code as <a href="https://openai.com/blog/openai-five">OpenAI Five</a> paired with a new technique called Automatic Domain Randomization (ADR). The system can handle situations it never saw during training, such as being prodded by a <a href="#perturbations">stuffed giraffe</a>. This shows that reinforcement learning isn't just a tool for virtual tasks, but can solve physical-world problems requiring unprecedented dexterity.</p>
 </div>

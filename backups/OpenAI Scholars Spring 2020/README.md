@@ -8,13 +8,17 @@ authors: [{'name': 'OpenAI'}]
 published: Fri, 11 Oct 2019 13:56:41 GMT
 ---
 
+
 # OpenAI Scholars Spring 2020
+
 ## Summary
+
 <!--kg-card-begin: markdown--><div class="js-excerpt">
 <p>We are now accepting applications for our third class of OpenAI Scholars, a 4-month full-time program where we provide stipends and mentorship to 8 individuals from <a href="https://www.nsf.gov/statistics/2017/nsf17310/digest/introduction/">underrepresented groups</a> to study deep learning and produce open-source a project. The second class of Scholars recently released their <a href="https://openai.com/blog/openai-scholars-class-of-19/">projects</a> and presented their work</p></div>
+
 ## Content
-<!--kg-card-begin: markdown--><div class="js-excerpt">
-<p>We are now accepting applications for our third class of OpenAI Scholars, a 4-month full-time program where we provide stipends and mentorship to 8 individuals from <a href="https://www.nsf.gov/statistics/2017/nsf17310/digest/introduction/">underrepresented groups</a> to study deep learning and produce open-source a project. The second class of Scholars recently released their <a href="https://openai.com/blog/openai-scholars-class-of-19/">projects</a> and presented their work</p></div>
+
+
 <!--kg-card-begin: markdown--><div class="js-excerpt">
 <img alt="OpenAI Scholars Spring 2020" src="images/IMG_7650.jpg"/><p>We are now accepting applications for our third class of OpenAI Scholars, a 4-month full-time program where we provide stipends and mentorship to 8 individuals from <a href="https://www.nsf.gov/statistics/2017/nsf17310/digest/introduction/">underrepresented groups</a> to study deep learning and produce open-source a project. The second class of Scholars recently released their <a href="https://openai.com/blog/openai-scholars-class-of-19/">projects</a> and presented their work at the 2019 Scholars <a href="https://www.youtube.com/watch?v=4u218xVkjmQ">Demo Day.</a></p>
 </div>
