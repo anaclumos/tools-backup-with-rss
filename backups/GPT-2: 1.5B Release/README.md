@@ -9,7 +9,9 @@ published: Tue, 05 Nov 2019 17:05:24 GMT
 ---
 
 # GPT-2: 1.5B Release
-###### Summary
+## Summary
+As the final model release of GPT-2’s staged release, we’re releasing the largest version (1.5B parameters) of GPT-2 along with code and model weights to facilitate detection of outputs of GPT-2 models.
+## Content
 As the final model release of GPT-2’s staged release, we’re releasing the largest version (1.5B parameters) of GPT-2 along with code and model weights to facilitate detection of outputs of GPT-2 models.
 <!--kg-card-begin: markdown--><div class="medium-copy color-fg-80 mt-n0.5">
 <img alt="GPT-2: 1.5B Release" src="images/gpt-update_11-4b.jpg"/><p>As the final model release of <a href="https://openai.com/blog/better-language-models/">GPT-2</a>’s <a href="https://openai.com/blog/gpt-2-6-month-follow-up/">staged release</a>, we’re releasing the largest version (1.5B parameters) of GPT-2 along with <a href="https://github.com/openai/gpt-2-output-dataset">code and model weights</a> to facilitate detection of outputs of GPT-2 models. While there have been larger language models released since August, we’ve continued with our original staged release plan in order to provide the community with a test case of a full staged release process. We hope that this test case will be useful to developers of future powerful models, and we’re actively continuing the conversation with the AI community on responsible publication.</p>

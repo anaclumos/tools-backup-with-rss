@@ -9,7 +9,10 @@ published: Fri, 13 Dec 2019 17:15:41 GMT
 ---
 
 # OpenAI Five
-###### Summary
+## Summary
+<!--kg-card-begin: markdown--><div class="medium-copy">
+<p>At OpenAI, we’ve used the multiplayer video game <a href="https://www.dota2.com/play/">Dota 2</a> as a research platform for general-purpose AI systems. Our Dota 2 AI, called OpenAI Five, learned by playing over 10,000 years of games against itself. It demonstrated the ability to achieve <a href="https://openai.com/blog/openai-five-defeats-dota-2-world-champions">expert-level performance</a>, learn <a href="https://openai.com/blog/openai-five-defeats-dota-2-world-champions/#cooperativemode">human–AI cooperation</a>, and</p></div>
+## Content
 <!--kg-card-begin: markdown--><div class="medium-copy">
 <p>At OpenAI, we’ve used the multiplayer video game <a href="https://www.dota2.com/play/">Dota 2</a> as a research platform for general-purpose AI systems. Our Dota 2 AI, called OpenAI Five, learned by playing over 10,000 years of games against itself. It demonstrated the ability to achieve <a href="https://openai.com/blog/openai-five-defeats-dota-2-world-champions">expert-level performance</a>, learn <a href="https://openai.com/blog/openai-five-defeats-dota-2-world-champions/#cooperativemode">human–AI cooperation</a>, and</p></div>
 <!--kg-card-begin: markdown--><div class="medium-copy">

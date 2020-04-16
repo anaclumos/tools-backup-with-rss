@@ -9,7 +9,10 @@ published: Thu, 01 Aug 2019 15:46:00 GMT
 ---
 
 # Learning Day
-###### Summary
+## Summary
+<!--kg-card-begin: markdown--><div class="js-excerpt">
+<p>At OpenAI, each Thursday is Learning Day: a day where employees have the option to self-study technical skills that will make them better at their job but which aren’t being learned from daily work. We’ve found that the biggest contributions at OpenAI come from cross-functional experts, so we</p></div>
+## Content
 <!--kg-card-begin: markdown--><div class="js-excerpt">
 <p>At OpenAI, each Thursday is Learning Day: a day where employees have the option to self-study technical skills that will make them better at their job but which aren’t being learned from daily work. We’ve found that the biggest contributions at OpenAI come from cross-functional experts, so we</p></div>
 <!--kg-card-begin: markdown--><div class="js-excerpt">

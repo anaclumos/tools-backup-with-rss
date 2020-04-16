@@ -9,7 +9,10 @@ published: Tue, 20 Aug 2019 16:00:59 GMT
 ---
 
 # GPT-2: 6-Month Follow-Up
-###### Summary
+## Summary
+<!--kg-card-begin: markdown--><div class="js-excerpt">
+<p>We’re releasing the 774 million parameter GPT-2 language model after the release of our small <a href="https://openai.com/blog/better-language-models/">124M model</a> in February, staged release of our medium <a href="https://openai.com/blog/better-language-models/#update">355M model</a> in May, and subsequent research with partners and the AI community into the model’s potential for misuse and societal benefit. We’re</p></div>
+## Content
 <!--kg-card-begin: markdown--><div class="js-excerpt">
 <p>We’re releasing the 774 million parameter GPT-2 language model after the release of our small <a href="https://openai.com/blog/better-language-models/">124M model</a> in February, staged release of our medium <a href="https://openai.com/blog/better-language-models/#update">355M model</a> in May, and subsequent research with partners and the AI community into the model’s potential for misuse and societal benefit. We’re</p></div>
 <!--kg-card-begin: markdown--><div class="js-excerpt">

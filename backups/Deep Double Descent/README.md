@@ -9,7 +9,10 @@ published: Thu, 05 Dec 2019 17:24:26 GMT
 ---
 
 # Deep Double Descent
-###### Summary
+## Summary
+<!--kg-card-begin: markdown--><div class="js-excerpt">
+<p>We show that the <a href="https://arxiv.org/abs/1812.11118">double</a> <a href="https://arxiv.org/abs/1710.03667">descent</a> <a href="https://arxiv.org/abs/1809.09349">phenomenon</a> occurs in CNNs, ResNets, and transformers: performance first improves, then gets worse, and then improves again with increasing model size, data size, or training time. This effect is often avoided through careful regularization. While this behavior appears to be fairly universal, we don't</p></div>
+## Content
 <!--kg-card-begin: markdown--><div class="js-excerpt">
 <p>We show that the <a href="https://arxiv.org/abs/1812.11118">double</a> <a href="https://arxiv.org/abs/1710.03667">descent</a> <a href="https://arxiv.org/abs/1809.09349">phenomenon</a> occurs in CNNs, ResNets, and transformers: performance first improves, then gets worse, and then improves again with increasing model size, data size, or training time. This effect is often avoided through careful regularization. While this behavior appears to be fairly universal, we don't</p></div>
 <!--kg-card-begin: markdown--><div class="js-excerpt">

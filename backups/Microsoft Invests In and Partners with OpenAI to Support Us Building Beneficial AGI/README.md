@@ -9,7 +9,14 @@ published: Mon, 22 Jul 2019 12:56:36 GMT
 ---
 
 # Microsoft Invests In and Partners with OpenAI to Support Us Building Beneficial AGI
-###### Summary
+## Summary
+<!--kg-card-begin: markdown--><div class="js-custom-media">
+<img class="d-none d-sm-block w-100" src="images/msft_7-19d.jpg"/>
+<img class="d-block d-sm-none w-100" src="images/openai-msft-twitter_7-21b.jpg"/>
+</div>
+<div class="js-excerpt">
+<p>Microsoft is investing $1 billion in OpenAI to support us building artificial general intelligence (AGI) with <a href="https://openai.com/charter/">widely distributed</a> economic benefits. We're partnering to develop a hardware and software platform within Microsoft Azure which will scale to AGI. We’ll jointly develop new Azure AI supercomputing technologies, and Microsoft will become</p></div>
+## Content
 <!--kg-card-begin: markdown--><div class="js-custom-media">
 <img class="d-none d-sm-block w-100" src="images/msft_7-19d.jpg"/>
 <img class="d-block d-sm-none w-100" src="images/openai-msft-twitter_7-21b.jpg"/>
