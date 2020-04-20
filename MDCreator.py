@@ -3,6 +3,7 @@
 import os
 import codecs
 import requests
+import validators
 from tqdm import tqdm
 from bs4 import BeautifulSoup as bs
 from urllib.parse import urljoin, urlparse
@@ -165,12 +166,11 @@ published: """
                 progress.update(len(data))
 
     def isDomain(self, string):
-        s = string.split("/")[0]
-        if string.startswith("https://") or string.startswith("http://"):
+        if string.startswith("https://") or string.startswith(
+            "http://"
+        ):
             return True
         elif string.startswith("/"):
             return False
-        elif s.lfind(".") == s.rfind("."):
-            return True
         else:
-            return False
+            return validators.domain(string.split("/")[0])

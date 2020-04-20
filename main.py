@@ -9,8 +9,8 @@ import pprint
 start = time.time()
 
 # ------------
-RSSURL = "https://yourblog.com/rss/"
-RSSHome = "https://yourblog.com/"
+RSSURL = "https://blog.chosunghyun.com/rss/"
+RSSHome = "https://blog.chosunghyun.com/"
 RSSDIR = "backups"
 # ------------
 
