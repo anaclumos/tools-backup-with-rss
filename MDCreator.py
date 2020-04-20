@@ -15,7 +15,9 @@ class MDCreator:
             os.makedirs(directory + "/" + self.rawData.title)
             print('Folder "' + self.rawData.title + '" Created ')
         except FileExistsError:
-            print('Folder "' + self.rawData.title + '" already exists')
+            print(
+                'Folder "' + self.rawData.title + '" already exists'
+            )
         self.directory = directory + "/" + self.rawData.title
 
         MDFile = open(self.directory + "/README.md", "w")
@@ -35,7 +37,9 @@ class MDCreator:
         except AttributeError:
             print("Post Title does not exist")
         try:
-            postTags = str(self.getValueListOfDictList(self.rawData.tags, "term"))
+            postTags = str(
+                self.getValueListOfDictList(self.rawData.tags, "term")
+            )
         except AttributeError:
             print("Post Tags does not exist")
         try:
@@ -79,7 +83,9 @@ published: """
 """
         )
 
-        self.renderedData += "\n\n# " + postTitle + "\n\n## Summary\n\n"
+        self.renderedData += (
+            "\n\n# " + postTitle + "\n\n## Summary\n\n"
+        )
 
         try:
             self.renderedData += self.rawData.summary
@@ -89,7 +95,9 @@ published: """
         self.renderedData += "\n\n## Content\n\n"
 
         try:
-            for el in self.getValueListOfDictList(self.rawData.content, "value"):
+            for el in self.getValueListOfDictList(
+                self.rawData.content, "value"
+            ):
                 self.renderedData += "\n" + str(el)
         except AttributeError:
             self.renderedData += "RSS content does not exist."
