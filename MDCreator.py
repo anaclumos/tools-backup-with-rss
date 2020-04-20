@@ -130,6 +130,7 @@ published: """
             )
             self.download(remoteFile, self.directory + "/images")
             img["src"] = "images/" + remoteFile.split("/")[-1]
+            img["srcset"] = ""
             print(img["src"])
         self.renderedData = str(soup)
         return self.renderedData
