@@ -1,4 +1,7 @@
+# -*- coding: utf-8 -*-
+
 import os
+import codecs
 import requests
 from tqdm import tqdm
 from bs4 import BeautifulSoup as bs
@@ -20,7 +23,9 @@ class MDCreator:
             )
         self.directory = directory + "/" + self.rawData.title
 
-        MDFile = open(self.directory + "/README.md", "w")
+        MDFile = codecs.open(
+            self.directory + "/README.md", "w", "utf-8"
+        )
         MDFile.write(self.render())
         MDFile.close()
 
