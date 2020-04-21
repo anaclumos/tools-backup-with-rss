@@ -64,7 +64,7 @@ class MDCreator:
             postPublished = "Published Date unknown"
             print("Published Date does not exist")
         self.renderedData = (
-            "\n---\nlayout: post\ntitle: "
+            "---\nlayout: post\ntitle: "
             + postTitle
             + "\ntags: "
             + postTags
