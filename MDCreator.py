@@ -70,12 +70,12 @@ class MDCreator:
             + postTags
             + "\nurl: "
             + postLink
-            + "\nid: "
-            + postID
             + "\nauthors: "
             + postAuthors
             + "\npublished: "
             + postPublished
+            + "\nid: "
+            + postID
             + "\n---\n"
         )
 
