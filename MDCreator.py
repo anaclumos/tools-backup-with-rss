@@ -31,62 +31,52 @@ class MDCreator:
         MDFile.close()
 
     def render(self):
-        postTitle = "Post Title Unknown"
-        postTags = "Post Tags Unknown"
-        postLink = "Post Link Unknown"
-        postID = "Post ID unknown"
-        postAuthors = "Authors Unknown"
-        postPublished = "Published Date unknown"
-
         try:
             postTitle = str(self.rawData.title)
         except AttributeError:
+            postTitle = "Post Title Unknown"
             print("Post Title does not exist")
         try:
             postTags = str(
                 self.getValueListOfDictList(self.rawData.tags, "term")
             )
         except AttributeError:
+            postTags = "Post Tags Unknown"
             print("Post Tags does not exist")
         try:
+            postLink = "Post Link Unknown"
             postLink = str(self.rawData.link)
         except AttributeError:
             print("Post Link does not exist")
         try:
             postID = str(self.rawData.id)
         except AttributeError:
+            postID = "Post ID unknown"
             print("Post ID does not exist")
         try:
             postAuthors = str(self.rawData.authors)
         except AttributeError:
+            postAuthors = "Authors Unknown"
             print("Authors does not exist")
         try:
             postPublished = str(self.rawData.published)
         except AttributeError:
+            postPublished = "Published Date unknown"
             print("Published Date does not exist")
         self.renderedData = (
-            """---
-layout: post
-title: """
+            "\n---\nlayout: post\ntitle: "
             + postTitle
-            + """
-tags: """
+            + "\ntags: "
             + postTags
-            + """
-url: """
+            + "\nurl: "
             + postLink
-            + """
-id: """
+            + "\nid: "
             + postID
-            + """
-authors: """
+            + "\nauthors: "
             + postAuthors
-            + """
-published: """
+            + "\npublished: "
             + postPublished
-            + """
----
-"""
+            + "\n---\n"
         )
 
         self.renderedData += (
