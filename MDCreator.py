@@ -22,9 +22,7 @@ class MDCreator:
 
     def createFile(self, directory):
         try:
-            print('Before Purifying :', self.rawData.title)
             self.rawData.title = self.purify_fileName(self.rawData.title) # Purify for proper filename
-            print('After Purifying : ', self.rawData.title)
             os.makedirs(directory + "/" + self.rawData.title)
             print('Folder "' + self.rawData.title + '" Created ')
         except FileExistsError:
