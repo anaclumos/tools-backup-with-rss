@@ -13,9 +13,16 @@ class MDCreator:
     def __init__(self, rawData, blogDomain):
         self.rawData = rawData
         self.blogDomain = blogDomain
+        self.Filename_exclude_chars = ["\\", "/", ":", "*", "?", "<", ">", "|"] # Characters to exclude from Windows File System
+
+    def purify_fileName(self, fileName):
+        for c in self.Filename_exclude_chars:
+            fileName = fileName.replace(c, '') # .replace() returns the copy of the result
+        return fileName
 
     def createFile(self, directory):
         try:
+            self.rawData.title = self.purify_fileName(self.rawData.title) # Purify for proper filename
             os.makedirs(directory + "/" + self.rawData.title)
             print('Folder "' + self.rawData.title + '" Created ')
         except FileExistsError:
