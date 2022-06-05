@@ -126,7 +126,12 @@ class MDCreator:
                 + self.directory
                 + '/images"'
             )
-            self.download(remoteFile, self.directory + "/images")
+            try :
+                self.download(remoteFile, self.directory + "/images")
+            except Exception as e:
+                print(e)
+                print("Failed to download image")
+                continue
             img["src"] = "images/" + remoteFile.split("/")[-1]
             img["srcset"] = ""
             print(img["src"])
